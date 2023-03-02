@@ -1,0 +1,26 @@
+body{
+	align-items: center;
+	text-align: center;
+	align-content: center;
+}
+#frm1{
+	border:solid gray 2px;
+	width: 22%;
+	border-radius: 50px;
+	width: 35%;
+	margin: 10px;
+	background: #1E90FF;
+	align-items: center;
+	text-align: center;
+	size: 50px;
+	
+}
+#sub1{
+	background: #FCD9FF;
+	padding: 20px;
+	color: red;
+	box-shadow: 5px 5px 5px #FD93F8;
+}
+#hed1{
+	color: #FC511A;
+}

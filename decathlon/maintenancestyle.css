@@ -1,0 +1,49 @@
+body{
+	
+}
+#label1{
+	color: white;
+	margin-bottom: 25px;
+	margin-left: 165px;
+}
+
+#frm4{
+	border:solid gray 2px;
+	width: 20%;
+	border-radius: 50px;
+	width: 40%;
+	margin: 10px;
+	background: transparent;
+	align-items: center;
+	text-align: center;
+	size: 50px;
+	
+}
+#btn3{
+	padding: 20px;
+	margin: 0px
+	color: #fff;
+	background: #44A9FC;
+	margin: 50px;
+	box-shadow: 5px 5px 5px #93C9FD;
+}
+
+#btn4{
+	padding: 10px;
+	margin: 0px;
+	color: white;
+	background: red;
+	margin: 5px;
+	box-shadow: 5px 5px 5px #93C9FD;
+}
+#lab5{
+	color: white;
+}
+#l1{
+	color: white;
+	
+
+}	
+#log1{
+	color: white;
+}

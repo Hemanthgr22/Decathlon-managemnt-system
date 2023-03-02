@@ -1,0 +1,54 @@
+body{
+	align-items: center;
+	text-align: center;
+	align-content: center;
+}
+#lab1{
+	margin-top: 50px;
+	color: white;
+}
+#lab2{
+	margin-bottom: 150px;
+	color: white;
+}
+#lab3{
+	color: white;
+}
+
+#frm2{
+	border:solid gray 2px;
+	width: 50%;
+	border-radius: 50px;
+	display: inline-block;
+	width: 40%;
+	margin: 20px;
+	background: #808080;
+	align-items: center;
+	text-align: center;
+	size: 50px;
+	
+}
+
+
+#btn2{
+	padding: 20px;
+	margin: 0px
+	color: #fff;
+	background: #44A9FC;
+	margin: 50px;
+	box-shadow: 5px 5px 5px #fff;
+}
+
+#frm3{
+	border:solid gray 5px;
+	width: 50%;
+	border-radius: 50px;
+	display: white;
+	width: 30%;
+	margin: 20px;
+	background: transparent;
+	align-items: left;
+	text-align: center;
+	size: 50px;
+	
+}
